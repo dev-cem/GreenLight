@@ -93,7 +93,7 @@ const kComicHighScoreStyle = TextStyle(
   color: ComicColors.ink,
 );
 
-/// Splash-screen studio name — "Chroma" stacked over "Studio", same
+/// Splash-screen studio name — "Kroma" stacked over "Games", same
 /// ink-on-background treatment as the home screen title (kComicTitleStyle)
 /// but larger since it's the only thing on screen.
 const kStudioNameStyle = TextStyle(
@@ -104,7 +104,7 @@ const kStudioNameStyle = TextStyle(
   letterSpacing: 1.5,
 );
 
-/// The "Studio" line under [kStudioNameStyle]'s "Chroma".
+/// The "Games" line under [kStudioNameStyle]'s "Kroma".
 const kStudioTaglineStyle = TextStyle(
   fontFamily: kComicFontFamily,
   fontSize: 22,
